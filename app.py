@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1AZgE76XtMCWgr7460e7lg5vHZyLYjgdc
 """
 
-!pip install "langchain==0.1.20"
 !pip install langchain-openai
 !pip install requests
 
